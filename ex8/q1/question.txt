@@ -1,0 +1,2 @@
+ImageManager ขัด open/close principle การจะเพิ่ม renderer ประเภทใหม่จะต้องแก้ไข ImageManager ด้วย
+สามารถใช้ strategy design pattern แก้ไขได้

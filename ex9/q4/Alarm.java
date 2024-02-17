@@ -7,6 +7,7 @@ public class Alarm {
     public void endAlarm(String from) {
         System.out.println("Alarm event ended from " + from);
     }
+    
     public void setMediator(SmartHomeMediator shm){
         this.shm = shm;
     }public void removeMediator(){

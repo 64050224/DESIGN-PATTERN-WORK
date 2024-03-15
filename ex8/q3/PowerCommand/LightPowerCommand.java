@@ -1,4 +1,4 @@
-package Command;
+package PowerCommand;
 import Receiver.Light;
 
 public class LightPowerCommand implements PowerCommand{

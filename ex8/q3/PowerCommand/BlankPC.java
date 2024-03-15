@@ -1,3 +1,4 @@
+package PowerCommand;
 public class BlankPC implements PowerCommand{
 
     @Override

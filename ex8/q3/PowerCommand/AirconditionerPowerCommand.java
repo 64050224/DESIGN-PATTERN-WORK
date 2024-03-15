@@ -1,4 +1,4 @@
-package Command;
+package PowerCommand;
 import Receiver.Airconditioner;
 
 public class AirconditionerPowerCommand implements PowerCommand{
